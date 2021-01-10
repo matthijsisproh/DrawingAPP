@@ -1,0 +1,4 @@
+(372, 132) RECTANGLE green (40, 40)
+(487, 270) RECTANGLE yellow (40, 40)
+(471, 137) RECTANGLE blue (40, 40)
+(459, 196) RECTANGLE cyan (40, 40)
